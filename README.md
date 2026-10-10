@@ -35,8 +35,8 @@ Hi!
 
 ## ⏰ WakaTime Stats
 
-[![Khaomi's WakaTime stats-Dark](https://github-stats-extended-hazel.vercel.app/api/wakatime?username=Khaomi&theme=dark&langs_count=10#gh-dark-mode-only)](https://github.com/stats-organization/github-stats-extended#gh-dark-mode-only)
-[![Khaomi's WakaTime stats-Light](https://github-stats-extended-hazel.vercel.app/api/wakatime?username=Khaomi&theme=default&langs_count=10#gh-light-mode-only)](https://github.com/stats-organization/github-stats-extended#gh-light-mode-only)
+[![Khaomi's WakaTime stats-Dark](https://github-stats-extended-hazel.vercel.app/api/wakatime?username=xhayper&theme=dark&langs_count=10#gh-dark-mode-only)](https://github.com/stats-organization/github-stats-extended#gh-dark-mode-only)
+[![Khaomi's WakaTime stats-Light](https://github-stats-extended-hazel.vercel.app/api/wakatime?username=xhayper&theme=default&langs_count=10#gh-light-mode-only)](https://github.com/stats-organization/github-stats-extended#gh-light-mode-only)
 
 ## 🏆 Trophy Wall
 
